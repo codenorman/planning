@@ -89,7 +89,7 @@ This is a proposed schedule.
   <td>18</td>
   <td>19</td>
   <td>20</td>
-  <td>21 Norman Tech Talks @ Norman Public Library @ 2:30</td>
+  <td>21 Norman Tech Talks / HW help with OKCoders @ Norman Public Library @ 2:30</td>
 </tr>
 <tr>
   <td>22</td>
@@ -100,7 +100,7 @@ This is a proposed schedule.
   <td>25</td>
   <td>26</td>
   <td>27 Hack Night
-  @ Prototek in OKC @ 7PM</td>
+  @ Prototek in OKC / HW help with OKCoders @ 7PM</td>
   <td>28</td>
 </tr>
 <tr>
@@ -151,7 +151,7 @@ This is a proposed schedule.
   <td>16</td>
   <td>17</td>
   <td>18</td>
-  <td>19 Norman Tech Talks @ Norman Public Library @ 2:30</td>
+  <td>19 Norman Tech Talks / HW help with OK Coders @ Norman Public Library @ 2:30</td>
 </tr>
 <tr>
   <td>20</td>
@@ -160,7 +160,7 @@ This is a proposed schedule.
   <td>23</td>
   <td>24</td>
   <td>25 Hack Night
-  @ Prototek in OKC @ 7PM</td>
+  @ Prototek in OKC / HW Help with OKCoders @ 7PM</td>
   <td>26</td>
 </tr>
 <tr>

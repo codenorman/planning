@@ -34,7 +34,7 @@ New Octopress site at codenorman.org, new twitter account at https://twitter.com
 ## Code of Conduct (2 minutes)
 
 Amanda Harlin put up a GitHub issue. OKCRuby put up a code of conduct too.
-See the [Code of Conduct](/planning/code_of_conduct.html) page for details.
+See the [Code of Conduct](/planning/code_of_conduct.md) page for details.
 
 ## ByLaws ( 5 minutes)
 

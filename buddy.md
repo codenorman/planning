@@ -72,7 +72,7 @@ This is some more stuff for markdown.
 <tr>
   <td>8</td>
   <td>9</td>
-  <td>10</td>
+  <td>10<tr><td><strong>Workshop:</strong>Getting started with  public/private key crypto @ 12 – 1 @ CCEW </td></tr></td>
   <td>11</td>
   <td>12</td>
   <td>13</td>
@@ -98,6 +98,7 @@ This is some more stuff for markdown.
 </tr>
 <tr>
   <td>29</td>
+  <td>30</td>
 </tr>
 </table>
 

@@ -51,7 +51,7 @@ This is some more stuff for markdown.
 
 <table>
 <tr>
-  <th>Sunday<th>
+  <th>Sunday</th>
   <th>Monday</th>
   <th>Tuesday</th>
   <th>Wednesday</th>

@@ -72,28 +72,34 @@ This is some more stuff for markdown.
 <tr>
   <td>8</td>
   <td>9</td>
-  <td>10<strong>Workshop:</strong>Getting started with  public/private key crypto @ 12 – 1 @ CCEW</td>
+  <td>10 <strong>Workshop:</strong>Getting started with  public/private key crypto @ 12 – 1 @ CCEW</td>
   <td>11</td>
   <td>12</td>
   <td>13</td>
-  <td>14</td>
+  <td>14 So Code, Much Fun, Talk Computer, Yes @ 2:30
+  - Restaurant or Bar</td>
 </tr>
 <tr>
   <td>15</td>
   <td>16</td>
-  <td>17</td>
+  <td>17 <strong>Workshop:</strong>
+  Getting started with GitHub
+  @ 12 – 1 @ CCEW</td>
   <td>18</td>
   <td>19</td>
   <td>20</td>
-  <td>21</td>
+  <td>21 Norman Tech Talks @ Norman Public Library @ 2:30</td>
 </tr>
 <tr>
   <td>22</td>
   <td>23</td>
-  <td>24</td>
+  <td>24 <strong>Workshop:</strong>
+  Getting Started With OctoPress
+  @ 12 – 1 @ CCEW</td>
   <td>25</td>
   <td>26</td>
-  <td>27</td>
+  <td>27 Hack Night
+  @ Prototek in OKC @ 7PM</td>
   <td>28</td>
 </tr>
 <tr>
@@ -117,7 +123,9 @@ This is some more stuff for markdown.
 <tr>
   <td></td>
   <td></td>
-  <td>1</td>
+  <td>1 <strong>Workshop:</strong>
+  Getting Started with Node.js
+  @ 12 – 1 @ CCEW</td>
   <td>2</td>
   <td>3</td>
   <td>4</td>
@@ -126,11 +134,14 @@ This is some more stuff for markdown.
 <tr>
   <td>6</td>
   <td>7</td>
-  <td>8</td>
+  <td>8 <strong>Workshop:</strong>
+  Getting Started with PaySwarm.js
+  @ 12 – 1 @ CCEW</td>
   <td>9</td>
   <td>10</td>
   <td>11</td>
-  <td>12</td>
+  <td>12 So Code, Much Fun, Talk Computer, Yes @ 2:30
+  - Restaurant or Bar</td>
 </tr>
 <tr>
   <td>13</td>
@@ -139,7 +150,7 @@ This is some more stuff for markdown.
   <td>16</td>
   <td>17</td>
   <td>18</td>
-  <td>19</td>
+  <td>19 Norman Tech Talks @ Norman Public Library @ 2:30</td>
 </tr>
 <tr>
   <td>20</td>
@@ -147,7 +158,8 @@ This is some more stuff for markdown.
   <td>22</td>
   <td>23</td>
   <td>24</td>
-  <td>25</td>
+  <td>25 Hack Night
+  @ Prototek in OKC @ 7PM</td>
   <td>26</td>
 </tr>
 <tr>

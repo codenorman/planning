@@ -48,7 +48,7 @@ We will need a federal tax ID #, and it may be smart to talk to a CPA.
 
 “Your organization does not have to be a non-profit. You can do some research and find out the benefits of this, but it definitely complicates things, too. If you can find an organization that already is a non-profit to spin up your group underneath, that would be ideal. You could always just start off as a free entity and then as you grow and gain an audience, become a non-profit. This would only be helpful if you were collecting dues. “ – Cassandra Ketrick
 
-This is some more stuff for markdown.
+This is a proposed schedule.
 
 <table>
 <caption>June 2014</caption>

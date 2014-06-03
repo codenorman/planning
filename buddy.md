@@ -50,6 +50,7 @@ We will need a federal tax ID #, and it may be smart to talk to a CPA.
 This is some more stuff for markdown.
 
 <table>
+<caption>June 2014</caption>
 <tr>
   <th>Sunday</th>
   <th>Monday</th>

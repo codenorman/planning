@@ -1,3 +1,6 @@
+----
+title: Agenda for Code Norman
+----
 # Agenda for Code Norman
 
 # Workshops (5 minutes): 

@@ -47,3 +47,53 @@ We will need a federal tax ID #, and it may be smart to talk to a CPA.
 
 “Your organization does not have to be a non-profit. You can do some research and find out the benefits of this, but it definitely complicates things, too. If you can find an organization that already is a non-profit to spin up your group underneath, that would be ideal. You could always just start off as a free entity and then as you grow and gain an audience, become a non-profit. This would only be helpful if you were collecting dues. “ – Cassandra Ketrick
 
+<table>
+<tr>
+  <th>Sunday<th>
+  <th>Monday</th>
+  <th>Tuesday</th>
+  <th>Wednesday</th>
+  <th>Thursday</th>
+  <th>Friday</th>
+  <th>Saturday</th>
+</tr>
+<tr>
+  <td>1</td>
+  <td>2></td>
+  <td>3</td>
+  <td>4></td>
+  <td>5</td>
+  <td>6</td>
+  <td>7</td>
+</tr>
+<tr>
+  <td>8</td>
+  <td>9</td>
+  <td>10</td>
+  <td>11</td>
+  <td>12</td>
+  <td>13</td>
+  <td>14</td>
+</tr>
+<tr>
+  <td>15</td>
+  <td>16</td>
+  <td>17</td>
+  <td>18</td>
+  <td>19</td>
+  <td>20</td>
+  <td>21</td>
+</tr>
+<tr>
+  <td>22</td>
+  <td>23</td>
+  <td>24</td>
+  <td>25</td>
+  <td>26</td>
+  <td>27</td>
+  <td>28</td>
+</tr>
+<tr>
+  <td>29</td>
+</tr>
+</table>

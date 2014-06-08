@@ -73,7 +73,7 @@ This is a proposed schedule.
 <tr>
   <td>8</td>
   <td>9</td>
-  <td>10 <strong>Workshop:</strong>Getting started with public/private key crypto / HW help with OKCoders @ 12 – 1 @ CCEW</td>
+  <td>10 <strong>OK Coders Homework Help @Prototek, 7 PM</strong></td>
   <td>11</td>
   <td>12</td>
   <td>13</td>
@@ -84,8 +84,8 @@ This is a proposed schedule.
   <td>15</td>
   <td>16</td>
   <td>17 <strong>Workshop:</strong>
-  Getting started with GitHub / HW help with OKCoders
-  @ 12 – 1 @ CCEW</td>
+  Getting started with GitHub 
+  @ 12 – 1 @ CCEW, OKCoders Homework Help @Prototek 7PM</td>
   <td>18</td>
   <td>19</td>
   <td>20</td>
@@ -95,8 +95,8 @@ This is a proposed schedule.
   <td>22</td>
   <td>23</td>
   <td>24 <strong>Workshop:</strong>
-  Getting Started With OctoPress / HW help with OKCoders
-  @ 12 – 1 @ CCEW</td>
+  Getting Started With OctoPress
+  @ 12 – 1 @ CCEW, OKCoders help @ Prototek 7PM</td>
   <td>25</td>
   <td>26</td>
   <td>27 Hack Night
@@ -125,8 +125,8 @@ This is a proposed schedule.
   <td></td>
   <td></td>
   <td>1 <strong>Workshop:</strong>
-  Getting Started with Node.js / HW help with OK Coders
-  @ 12 – 1 @ CCEW</td>
+  Getting Started with Node.js,
+  @ 12 – 1 @ CCEW, HW Help @Prototek @7PM</td>
   <td>2</td>
   <td>3</td>
   <td>4</td>
@@ -136,13 +136,13 @@ This is a proposed schedule.
   <td>6</td>
   <td>7</td>
   <td>8 <strong>Workshop:</strong>
-  Getting Started with PaySwarm.js / HW hekp with OK Coders
-  @ 12 – 1 @ CCEW</td>
+  Getting Started with PaySwarm.js
+  @ 12 – 1 @ CCEW, HW Help w Prototek @ 7PM</td>
   <td>9</td>
   <td>10</td>
   <td>11</td>
   <td>12 So Code, Much Fun, Talk Computer, Yes @ 2:30
-  - Restaurant or Bar / HW Help with OK Coders</td>
+  - Restaurant or Bar/HW Help with OK Coders @ 7PM</td>
 </tr>
 <tr>
   <td>13</td>
